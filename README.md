@@ -10,7 +10,7 @@
 
 ![Nuno's Github Stats](https://github-readme-stats.vercel.app/api?username=nunokisc&show_icons=true&theme=gotham&count_private=true)
 
-![Metrics](https://metrics.lecoq.io/nunokisc?template=classic&followup=1&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FLisbon&config.animated=true)
+![Metrics](https://metrics.lecoq.io/nunokisc?template=classic&followup=1&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FLondon&config.animated=true)
 
 <p align="center">
 <a href="https://twitter.com/NunoKisc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="NunoKisc" height="20" width="20" /></a>
