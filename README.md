@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Nuno Cardoso  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<h3 align="center">A System Administrator and a developer in free times</h3>
+<h3 align="center">A System Administrator and a developer in free time</h3>
 
 &nbsp;
 
